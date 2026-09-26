@@ -8,7 +8,7 @@ Para começar, precisamos entrar no Github ou criar uma conta. Para criar um rep
 
 Primeiro, colocamos o nome do repositório. Depois, podemos colocar uma descrição, escolher se ele será Publico ou privado, ativar o README, escolher um template e adicionar uma licença.
 
-### **Processo de vincular uma pasta local no seu computador a esse reposotório remoto criado na nuvem.*
+### **Processo de vincular uma pasta local no seu computador a esse reposotório remoto criado na nuvem.**
 
 Depois de criar o repositório, podemos adicionar os arquivos do computador. Para isso, clicamos em ****Add file**** e depois em ****Upload files****. Na próxima página, clicamos em ****Choose your files****. Depois, procuramos no computador os arquivos que queremos enviar. No nosso caso, podemos pegar a pasta inteira e arrastar para o campo de ****Choose your files*****
 
