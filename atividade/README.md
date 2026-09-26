@@ -2,7 +2,7 @@
 
 ***
 
-## Passo a passo da criação e envio
+## **Passo a passo da criação e envio**
 
 Para começar, precisamos entrar no Github ou criar uma conta. Para criar um repositório, clicamos em ****Create new****, que tem o simbolo de "+". Depois, escolhemos "New repository". Assim, vamos para a página onde ficam as configurações do novo repositório.
 
